@@ -1,0 +1,1127 @@
+
+
+
+
+
+
+
+
+Dell Firmware Update Package for Marvell FastLinQ  series Ethernet adapters  Driver Details  Dell Ireland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome
+
+
+
+
+
+Dell Sites
+
+Dell Technologies
+Premier Sign In
+Partner Program Sign In
+Support
+
+
+
+
+
+
+
+
+
+
+
+Dell Sites
+
+Dell Technologies
+Premier Sign In
+Partner Program Sign In
+Support
+
+
+
+
+
+
+
+            Sign Out
+        
+
+
+
+
+Welcome to Dell
+My Account
+
+
+Place orders quickly and easily
+View orders and track your shipping status
+Create and access a list of your products
+Manage your Dell EMC sites products and productlevel contacts using Company Administration
+
+
+
+                    Sign In
+                
+
+                    Create an Account
+                
+
+                    Premier Sign In
+                
+
+                    Partner Program Sign In
+                
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+
+
+
+IEEN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Basket
+
+
+
+
+
+
+
+
+
+
+
+
+Your Dellcom Baskets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Products
+                        
+
+
+
+                            Solutions
+                        
+
+
+
+                            Services
+                        
+
+
+
+Support
+
+
+
+
+
+
+            Back
+        
+
+
+
+        Support
+    
+
+Support Home
+
+
+Support Library
+
+
+Support Services  Warranty
+
+
+Drivers  Downloads
+
+
+Manuals  Documentation
+
+
+Diagnostics  Tools
+
+
+SelfRepair  Parts
+
+
+Service Requests  Dispatch Status
+
+
+Order Support
+
+
+Contact Support
+
+
+Community
+
+
+
+
+
+
+Contact Us
+
+
+
+
+IEEN
+
+
+
+
+
+
+                                Back
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SupportProduct SupportDriver Details
+
+
+
+
+
+
+
+Dell Firmware Update Package for Marvell FastLinQ  series Ethernet adapters
+Restart required
+AUTO INSTALLED
+This file was automatically installed as part of a recent update If you are experiencing any issues you can manually download and reinstall
+
+
+
+
+
+This file was automatically installed as part of a recent update If you are experiencing any issues you can manually download and reinstall
+
+
+
+
+
+
+
+
+This software bundle includes a Dell Firmware Update Package for the following Marvell FastLinQ  series Ethernet adaptersQLogic S Dual GE PCIe Standup SFPDA CNAQLogic S Dual GE PCIe Standup BaseT CNAQLogic S Quad Port   GB x  Gb rNDC BaseTQLogic S Quad Port  GB x  Gb rNDC SFPDAQLogic SK Dual Port Gb bNDC KR CNAQLogic Sk Dual Port Gb bMezz KR CNAQLogic SK Quad Port Gb bNDC KR CNAQLogic S Quad Port GB rNDC SFPDA
+
+To view all drivers for your PowerEdge R go to Drivers and downloads
+
+
+
+Recommended
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading the latest available version of the driver
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is the latest Dell validated version of this driver
+This is not the latest Dell validated version of this driver
+NetworkFirmwareDNTLNABIN   MB
+
+
+
+
+
+
+
+
+
+
+This is a large file Depending on your connection speed it may take some time to download
+
+
+
+
+                            Download
+                        
+Go to Latest Version
+
+
+
+Show details
+
+
+
+Download current version instead
+
+
+
+
+
+View other downloadable formats
+
+
+
+
+
+File Format
+Update Package for Red Hat Linux
+
+
+File Name
+NetworkFirmwareDNTLNABIN
+
+
+File Size
+ MB
+
+
+
+Format Description
+
+
+                                Dell Update Packages for Linux can be used as standalone applications that ensure that specific validation criteria are met then apply an updateNote Update Packages for Linux are open source See the Dell Update Packages for Linux Readme for details
+                                To ensure the integrity of your download please verify the checksum value
+
+MD
+eabddecfeacc
+
+
+SHA
+cecbaeaedcae
+
+
+SHA
+effbabfbbacdeafdaadfafcfefc
+
+
+
+
+
+
+
+
+
+
+
+
+Fixes  Enhancements
+
+Fixes Fix for not able to change NIC partition value via racadmEnhancements Adds support for Windows Azure Stack HCI H OS
+Read More
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+Version
+ A
+
+
+  
+
+
+
+
+Release date 
+ Dec 
+
+
+  
+
+
+
+
+Download Type
+Firmware
+
+
+
+
+
+
+
+
+Category
+Network Ethernet  Wireless
+
+
+  
+
+
+
+
+
+
+Importance
+
+Optional
+
+Dell Technologies recommends reviewing this update to determine if it applies to your system The update contains changes that impact only certain configurations or provides new features that may or may not apply to your environment
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+Available formats
+
+
+
+
+
+File Format
+A GnuPG file which contains a cryptographic signature
+
+
+File Name
+NetworkFirmwareDNTLNABINsign
+
+
+File Size
+ Bytes
+
+
+
+
+
+
+
+
+
+
+This is a large file Depending on your connection speed it may take some time to download
+
+
+
+
+Format Description
+
+
+                            The GnuPG signature for Red Hat Linux Update Package can be used to authenticate Dells identity in the correlated Red Hat Linux Update Package
+                            
+
+
+                                        Download
+                                    
+
+
+To ensure the integrity of your download please verify the checksum value
+
+MD
+bbdefcedbd
+
+
+SHA
+dcbbdedcffaae
+
+
+SHA
+cfabfaccddcaefdbcabceb
+
+
+
+
+
+
+
+File Format
+External release notes
+
+
+File Name
+SWBDNTFWDUPreleasenotestxt
+
+
+File Size
+ KB
+
+
+
+
+
+
+
+
+
+
+This is a large file Depending on your connection speed it may take some time to download
+
+
+
+
+Format Description
+
+
+                            This file format contains plain text which can be viewed with a standard text editor
+                            
+
+
+                                        Download
+                                    
+
+
+To ensure the integrity of your download please verify the checksum value
+
+MD
+baaeaac
+
+
+SHA
+fddfeeecfcface
+
+
+SHA
+dbffdbedbcccbeaaeddadec
+
+
+
+
+
+
+
+File Format
+Update Package for MS Windows Bit
+
+
+File Name
+NetworkFirmwareDNTWNAEXE
+
+
+File Size
+ MB
+
+
+
+
+
+
+
+
+
+
+This is a large file Depending on your connection speed it may take some time to download
+
+
+
+
+Format Description
+
+
+                            Dell Update Packages in native Microsoft Windows bit format do not require that Microsoft WOW be installed on the Microsoft Windows Server
+                            
+
+
+                                        Download
+                                    
+
+
+To ensure the integrity of your download please verify the checksum value
+
+MD
+cdfcdbbbefd
+
+
+SHA
+bfedebcaaabdeefb
+
+
+SHA
+bbdbabffcfeefdbdbbd
+
+
+
+
+
+
+
+
+  
+
+
+
+
+By downloading you accept the terms of the Dell Software License Agreement
+
+
+
+
+
+
+Additional details
+Show All
+
+Hide All
+
+
+
+
+
+
+
+Other Available Versions
+
+
+ A Nov  A Mar  A Dec  A Sep  A Apr  A Aug  A Jan  A Sep  A Mar  A Aug 
+
+
+
+  
+
+
+
+ 
+
+
+
+Compatible Systems
+
+
+
+Dell EMC vSAN R Ready NodeDell EMC vSAN R Ready NodeDell EMC vSAN Rxd Ready NodeOEMR ROEMR ROEMR RxdOEMR ROEMR XL ROEMR XL ROEMR XL RxdPoweredge FCPoweredge FCPowerEdge FCPoweredge FCPowerEdge MPowerEdge M for PE VRTXPowerEdge MPowerEdge M for PE VRTXPowerEdge MPowerEdge M for PE VRTXPowerEdge RPowerEdge RPowerEdge RPowerEdge RPowerEdge RPowerEdge RPowerEdge RxdPowerEdge RPowerEdge RXDPowerEdge RPowerEdge RPowerEdge RPowerEdge TPowerEdge TPowerEdge T 
+
+
+
+
+  
+
+
+
+
+
+
+Supported Operating Systems
+
+
+
+AZURE STACK HCI
+Red Hat Enterprise Linux 
+SuSE Linux ES 
+Windows Server  LTSC
+Windows Server  LTSC
+VMware ESXi 
+
+Looking for a different OS View the list of Dell supported operating systems
+
+
+
+
+  
+
+
+
+
+
+
+
+Applies to
+
+
+Dual Port Gb Ethernet BCMS LOM
+Dual Port Gb Ethernet BCMS LOM FC
+QLogic S Quad Port   GB x  Gb rNDC BaseT
+QLogic S Quad Port  GB x  Gb rNDC SFPDA
+QLogic S Dual GE PCIe Standup BaseT CNA
+QLogic S Dual GE PCIe Standup SFPDA CNA
+QLogic Sk Dual Port Gb bMezz KR CNA
+QLogic SK Dual Port Gb bNDC KR CNA
+QLogic S Quad Port GB rNDC SFPDA
+QLogic SK Quad Port Gb bNDC KR CNA
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+Installation instructions
+
+
+
+                                Windows Update Package InstallationDownload Click the Download Now link to download the file When the File Download window appears click Save to save the file toyour hard driveInstallation Browse to the location where you downloaded the file and doubleclick the new file Read over the release information presented in the dialog window Download and install latest Network drivers and any prerequisites identified in the dialog window before proceeding Click the Install button Follow the remaining prompts to perform the updateAlternative Installation via Lifecycle Controller Copy the downloaded firmware DUP for Windows to removable USB storage Insert the removable USB storage in a USB port of the server to be updated Reboot the server Press the F key to enter Lifecycle Controller In the left navigation pane click Firmware Update In the main pane click Launch Firmware Update On the Step  of  Select Update Repository page select Local Drive Click the Next button On the Step  of  Enter Access Details page select the removable USB storage from the Local Drive dropdown list Type the path and filename of the firmware DUP in the File Path or Update Package Path text box Click the Next button On the Step  of  Select Updates page select the checkbox next to one or more of the Available System Updates Click the Apply button to complete the installation processLinux Update Package InstallationDownload Click the Download Now link to download the file When the File Download window appears click Save to save the file to your hard driveInstallation Read over the release information presented by executing the version switch from the shell Download and install latest Network drivers and any prerequisites identified in the above step before proceeding Run the update from the shell Follow the remaining prompts to perform the updateGnuPG Signature of Dell Update Package Instructions Download Click the Download Now link to download the file When the File Download window appears click Save to save the file to your hard driveInstallation Import the Dell public key You only need to do this once on your system Verify the Dell Update Package by using its signature file
+                            
+
+
+
+
+  
+
+
+
+
+
+
+Need help with network connection issuesFind a solution in Dells network troubleshooting and usage guide
+
+Troubleshoot Network
+
+
+
+
+
+Drivers help and tutorials
+
+For more downloads go to the Drivers and downloads
+For help on using the information on this page please visit Driver Help and Tutorials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IEEN
+
+
+
+
+
+
+
+
+
+
+
+            Site Map
+        
+
+
+
+
+
+                        Account
+                
+Account
+
+
+
+My Account
+
+
+Order Status
+
+
+My Products
+
+
+
+
+
+
+                        Support
+                
+Support
+
+
+
+Support Home
+
+
+Contact Support
+
+
+
+
+
+
+                        Connect with Us
+                
+Connect with Us
+
+
+
+Community
+
+
+Contact Us
+
+
+
+
+
+
+            Site Map
+        
+
+
+
+
+IEEN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Our Offerings
+                
+Our Offerings
+
+
+
+APEX
+
+
+Products
+
+
+Solutions
+
+
+Services
+
+
+Deals
+
+
+
+
+
+
+                        Our Company
+                
+Our Company
+
+
+
+Who We Are
+
+
+Careers
+
+
+Dell Technologies Capital
+
+
+Investors
+
+
+Newsroom
+
+
+Perspectives
+
+
+Recycling
+
+
+ESG  Impact
+
+
+Customer Stories
+
+
+
+
+
+
+                        Our Partners
+                
+Our Partners
+
+
+
+Find a Partner
+
+
+OEM Solutions
+
+
+Partner Program
+
+
+
+
+
+
+                        Resources
+                
+Resources
+
+
+
+Blog
+
+
+Events
+
+
+Glossary
+
+
+Privacy Centre
+
+
+Resource Library
+
+
+Trial Software Downloads
+
+
+
+
+
+
+
+
+Dell Technologies
+
+
+Dell Premier
+
+
+
+
+
+
+Copyright   Dell Inc
+
+
+Terms  Conditions
+
+
+Privacy Statement
+
+
+Cookies Ads  Emails
+
+
+Legal  Regulatory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
